@@ -2,8 +2,6 @@
 
 > A personal + community recipe app with save, filter, sort, and social signals (likes, ratings).
 
-[![CI/CD Pipeline](https://github.com/yourusername/flavorbase/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/flavorbase/actions/workflows/ci.yml)
-
 ## 🚀 Quick Start
 
 Get Flavorbase running locally in under 15 minutes:
@@ -19,7 +17,7 @@ Get Flavorbase running locally in under 15 minutes:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/flavorbase.git
+   git clone https://github.com/braaaeeedyn/flavorbase.git
    cd flavorbase
    ```
 
