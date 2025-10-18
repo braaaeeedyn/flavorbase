@@ -49,7 +49,7 @@ Get Flavorbase running locally in under 15 minutes:
 ### Option 2: Full Docker Setup
 
 ```bash
-git clone https://github.com/yourusername/flavorbase.git
+git clone https://github.com/braaaeeedyn/flavorbase.git
 cd flavorbase
 docker-compose up --build
 ```
@@ -275,12 +275,6 @@ cd server
 ./mvnw clean compile
 ```
 
-### Getting Help
-
-- 📖 Check the [Wiki](https://github.com/yourusername/flavorbase/wiki)
-- 🐛 Report bugs via [Issues](https://github.com/yourusername/flavorbase/issues)
-- 💬 Join discussions in [Discussions](https://github.com/yourusername/flavorbase/discussions)
-
 ## 📊 Project Status
 
 - **Current Version**: 0.0.1-SNAPSHOT
@@ -288,5 +282,3 @@ cd server
 - **MVP Target**: Q1 2024
 
 ---
-
-**Built with ❤️ for food enthusiasts everywhere**
